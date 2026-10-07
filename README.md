@@ -1,28 +1,222 @@
-### Hi there 👋, My Name is Sajibe Kanti
-#### Independent Information Security Researcher | Bug Bounty Hunter | System Administrator | Red Hat® Certified Engineer (RHCE®) | WordPress Ninja | Solidity Tester
+# Hi there 👋, I'm Sajibe Kanti
 
-I am an independent Information Security Researcher and System Administrator with extensive expertise in Web Application, API, Android Applications, Thick Client, and Network Penetration Testing. With over 6+ years of experience in Cyber Security and Penetration Testing, I continue to pursue bug bounties, having ranked as one of the top 10 researchers on Yogosha. 
+### Independent Information Security Researcher | Bug Bounty Hunter | System Administrator | DevOps & Infrastructure Enthusiast
 
-Skills: Penetration Testing - Web Application | API | Mobile (iOS & Android) | Solidity Code Testing | Internal & External Network | Cloud & Containers | Linux System Administration
+I’m an **Independent Information Security Researcher and System Administrator** with 6+ years of hands-on experience in **Cyber Security, Penetration Testing, Linux System Administration, Web Hosting Infrastructure, and Server Engineering**.
 
-- 🔭 I’m currently working independently as a Security Researcher and System Administrator 
-- 🌱 I’m currently learning Web3 Security 
-- 💬 Ask me about Penetration Testing, Bug Bounty, and Linux System Administration 
-- 📫 How to reach me: Twitter: @Sajibekantibd 
-- 😄 Pronouns: Kanti
+My work spans from finding security vulnerabilities in web applications and APIs to designing, deploying, securing, and maintaining production server infrastructure.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sajibekanti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sajibe-kanti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajibe.kanti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sajibe_kanti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sajibejkantibd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sajibekanti.com)  
+I enjoy understanding how systems work — and more importantly, how they can fail.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sajibekanti)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajibekanti)](https://github.com/anuraghazra/github-readme-stats)
+## 🛡️ About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajibekanti&show_icons=true)  
+- 🔐 Independent **Security Researcher & Bug Bounty Hunter**
+- 🖥️ Linux System Administrator & Server Engineer
+- 🧪 Web Application & API Security Researcher
+- 🌐 Network & Infrastructure Security
+- ☁️ Cloud & Virtualization
+- 🐧 Linux / Unix System Administration
+- 🧩 WordPress & Web Infrastructure Security
+- ⚙️ cPanel / WHM / CloudLinux / LiteSpeed Infrastructure
+- 🚀 Hosting Infrastructure & Server Optimization
+- 💻 Full-stack scripting and automation for infrastructure
+- 🔎 Interested in vulnerability research, offensive security, and system hardening
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sajibekanti)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Sajibekanti)  
+## 🔥 What I Work On
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sajibekanti)  
+### 🔐 Cyber Security
 
-![Profile views](https://gpvc.arturio.dev/Sajibekanti)
+- Web Application Penetration Testing
+- API Security Testing
+- Vulnerability Research
+- Bug Bounty Hunting
+- Authentication & Authorization Testing
+- Business Logic Testing
+- Security Misconfiguration Analysis
+- Server & Infrastructure Security
+- Security Automation
+
+### 🖥️ Infrastructure & System Administration
+
+- Linux Server Administration
+- cPanel / WHM
+- CloudLinux
+- LiteSpeed Enterprise
+- Apache / Nginx
+- MariaDB / MySQL
+- DNS, SPF, DKIM & DMARC
+- Mail Infrastructure
+- Backup Infrastructure
+- Server Monitoring & Optimization
+- Virtualization & VPS Infrastructure
+- Network Routing & Security
+
+### ☁️ Hosting & Cloud Infrastructure
+
+I also work extensively with production hosting infrastructure, including:
+
+- Shared Hosting
+- Reseller Hosting
+- VPS Infrastructure
+- BDIX Infrastructure
+- Dedicated Servers
+- KVM Virtualization
+- NVMe / SSD Storage
+- High-performance web servers
+- Infrastructure automation
+
+---
+
+## 🧰 Technology & Tools
+
+### Security
+
+`Burp Suite` `Nuclei` `httpx` `Nmap` `ffuf` `SQLMap` `OWASP Tools`
+
+### Infrastructure
+
+`Linux` `CloudLinux` `cPanel` `WHM` `LiteSpeed` `Apache` `Nginx`
+
+### Virtualization
+
+`KVM` `Virtualizor` `VirtFusion`
+
+### Programming & Scripting
+
+`PHP` `Python` `JavaScript` `Bash` `HTML` `CSS`
+
+### Databases
+
+`MySQL` `MariaDB`
+
+### Networking
+
+`MikroTik` `TCP/IP` `DNS` `VPN` `Routing` `Firewall`
+
+---
+
+## 🚀 Projects & Infrastructure
+
+I build and maintain infrastructure-oriented projects focused on:
+
+- Server automation
+- Security hardening
+- Hosting automation
+- Monitoring and diagnostics
+- Performance optimization
+- Linux administration
+- Web application security
+- Infrastructure tooling
+
+I also run and work with production hosting infrastructure through **PrenHost**, providing web hosting, VPS, reseller hosting, BDIX infrastructure, and related services.
+
+---
+
+## 🧠 Security Research
+
+My security research focuses heavily on real-world systems rather than only theoretical security.
+
+Areas I regularly explore include:
+
+- Web applications
+- APIs
+- Authentication systems
+- Access control
+- Server configurations
+- Linux environments
+- Hosting environments
+- WordPress ecosystems
+- Cloud infrastructure
+- Network services
+
+I enjoy turning security findings into practical solutions — from identifying the vulnerability to understanding its root cause and implementing a reliable fix.
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Web Application Security
+- API Security
+- Cloud Security
+- Linux Kernel & System Security
+- Infrastructure Security
+- Server Performance Engineering
+- Security Automation
+- AI-assisted Security Research
+- DevSecOps
+
+---
+
+## 💬 Ask Me About
+
+- 🔐 Penetration Testing
+- 🐛 Bug Bounty
+- 🌐 Web & API Security
+- 🐧 Linux System Administration
+- 🖥️ cPanel / WHM / CloudLinux
+- ⚡ LiteSpeed & Web Server Optimization
+- ☁️ VPS & Hosting Infrastructure
+- 🌎 Network & Server Architecture
+- 🔧 Server Troubleshooting & Automation
+
+---
+
+## 📫 Connect With Me
+
+- 🐦 Twitter/X: [@Sajibekantibd](https://twitter.com/Sajibekantibd)
+- 💻 GitHub: [Sajibekanti](https://github.com/Sajibekanti)
+
+---
+
+## ⚡ Philosophy
+
+> **Understand the system. Break it responsibly. Secure it properly.**
+
+I believe the best way to build secure infrastructure is to understand how attackers think, how systems fail, and how those weaknesses can be turned into reliable defensive solutions.
+
+---
+
+## 🏆 GitHub Stats
+
+<!-- Replace these with your preferred GitHub statistics widgets -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajibekanti&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajibekanti&layout=compact&theme=default)
+
+---
+
+## 👨‍💻 A Little More About Me
+
+I spend a lot of my time working between two worlds:
+
+**Security Research 🔐**  
+Finding vulnerabilities, understanding attack techniques, testing applications, and improving security.
+
+**Infrastructure Engineering 🖥️**  
+Building servers, managing Linux environments, optimizing performance, troubleshooting production systems, and automating repetitive work.
+
+That combination gives me a practical perspective:
+
+**Security is not only about finding vulnerabilities — it's also about understanding the infrastructure behind the application.**
+
+---
+
+### 🤝 Open to
+
+- Security Research
+- Bug Bounty Collaboration
+- Infrastructure Projects
+- Open Source Projects
+- Security Automation
+- Technical Collaboration
+
+If you're working on something interesting in **Cyber Security, Linux, Infrastructure, or Web Security**, feel free to reach out.
+
+---
+
+**© Sajibe Kanti — Security Researcher | System Administrator | Infrastructure Engineer**
